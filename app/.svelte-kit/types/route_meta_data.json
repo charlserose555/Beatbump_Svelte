@@ -1,0 +1,141 @@
+{
+	"/": [
+		"src/routes/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/api/v1/get_queue.json": [
+		"src/routes/api/v1/get_queue.json/+server.ts"
+	],
+	"/api/v1/get_search_suggestions.json": [
+		"src/routes/api/v1/get_search_suggestions.json/+server.ts"
+	],
+	"/api/v1/main.json": [
+		"src/routes/api/v1/main.json/+server.ts"
+	],
+	"/api/v1/next.json": [
+		"src/routes/api/v1/next.json/+server.ts"
+	],
+	"/api/v1/player.json": [
+		"src/routes/api/v1/player.json/+server.ts"
+	],
+	"/api/v1/playlist.json": [
+		"src/routes/api/v1/playlist.json/+server.ts"
+	],
+	"/api/v1/related.json": [
+		"src/routes/api/v1/related.json/+server.ts"
+	],
+	"/api/v1/search.json": [
+		"src/routes/api/v1/search.json/+server.ts"
+	],
+	"/api/v1/stats.json": [
+		"src/routes/api/v1/stats.json/+server.ts"
+	],
+	"/artist/[slug]": [
+		"src/routes/artist/[slug]/+page.server.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/artist/[slug]/releases.json": [
+		"src/routes/artist/[slug]/releases.json/+server.ts"
+	],
+	"/artist/[slug]/releases": [
+		"src/routes/artist/[slug]/releases/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/explore.json": [
+		"src/routes/explore.json/+server.ts"
+	],
+	"/explore": [
+		"src/routes/explore/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/explore/[slug].json": [
+		"src/routes/explore/[slug].json/+server.ts"
+	],
+	"/explore/[slug]": [
+		"src/routes/explore/[slug]/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/home.json": [
+		"src/routes/home.json/+server.ts"
+	],
+	"/home": [
+		"src/routes/home/+page.server.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/library": [
+		"src/routes/library/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/library/playlists": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/library/playlists/[slug]": [
+		"src/routes/library/playlists/[slug]/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/library/songs": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/listen": [
+		"src/routes/listen/+page.server.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/playlist/[slug]": [
+		"src/routes/playlist/[slug]/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/release": [
+		"src/routes/release/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/search/[slug]": [
+		"src/routes/search/[slug]/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/session": [
+		"src/routes/session/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/settings": [
+		"src/routes/settings/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/test": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/trending.json": [
+		"src/routes/trending.json/+server.ts"
+	],
+	"/trending": [
+		"src/routes/trending/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/trending/new/[slug].json": [
+		"src/routes/trending/new/[slug].json/+server.ts"
+	],
+	"/trending/new/[slug]": [
+		"src/routes/trending/new/[slug]/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	]
+}
